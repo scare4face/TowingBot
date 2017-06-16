@@ -1,0 +1,26 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs twitter bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scare4face/TowingBot.git"
+  },
+  "keywords": [
+    "bot",
+    "nodejs"
+  ],
+  "author": "Obed Tetteh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scare4face/TowingBot/issues"
+  },
+  "homepage": "https://github.com/scare4face/TowingBot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
